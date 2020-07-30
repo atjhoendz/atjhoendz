@@ -15,7 +15,7 @@
 - Backend <b>{ NodeJS, ExpressJS, Laravel, Lumen }</b>
 - Database <b>{ MySQL, MongoDB }</b>
 - Frontend <b>{ VueJS, NuxtJS, GatsbyJS }</b>
-- Css Framework <b>{ Bootstrap, Vuetify }</b>
+- Css Framework <b>{ Bootstrap, Materialize, Vuetify }</b>
 - DevOps <b>{ Docker, TravisCI, Apache, Nginx }</b>
 - Daily Starter Pack <b>{ Manjaro Linux, VSCode, Git }</b>
 

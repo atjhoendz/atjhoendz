@@ -12,7 +12,7 @@
 ### 🛠 Tech Stack
 
 - Programming Language { Javascript, PHP, Golang, C++ }
-- Backend { NodeJS, Laravel, Lumen }
+- Backend { NodeJS, ExpressJS, Laravel, Lumen }
 - Database { MySQL, MongoDB }
 - Frontend { VueJS, NuxtJS, GatsbyJS }
 - Css Framework { Bootstrap, Vuetify }

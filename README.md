@@ -11,13 +11,13 @@
 
 ### 🛠 Tech Stack
 
-- Programming Language { Javascript, PHP, Golang, C++ }
-- Backend { NodeJS, ExpressJS, Laravel, Lumen }
-- Database { MySQL, MongoDB }
-- Frontend { VueJS, NuxtJS, GatsbyJS }
-- Css Framework { Bootstrap, Vuetify }
-- Devops { Docker, TravisCI, Apache, Nginx }
-- Daily Starter Pack { Manjaro Linux, VSCode, Git }
+- Programming Language <b>{ Javascript, PHP, Golang, C++ }</b>
+- Backend <b>{ NodeJS, ExpressJS, Laravel, Lumen }</b>
+- Database <b>{ MySQL, MongoDB }</b>
+- Frontend <b>{ VueJS, NuxtJS, GatsbyJS }</b>
+- Css Framework <b>{ Bootstrap, Vuetify }</b>
+- DevOps <b>{ Docker, TravisCI, Apache, Nginx }</b>
+- Daily Starter Pack <b>{ Manjaro Linux, VSCode, Git }</b>
 
 <br/>
 

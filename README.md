@@ -26,11 +26,10 @@
 ### Connect with Me
 
 <p align="center">
-  <a href="https://atjhoendz.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-atjhoendz.github.io-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/moh-achun-armando"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Moh%20Achun%20A-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://www.instagram.com/a.armndo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-a.armndo-blue?style=flat-square&logo=instagram"></a>
-  <a href="mailto:achunarmando@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-achunarmando@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a target="_blank" href="https://atjhoendz.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-atjhoendz.github.io-blue?style=flat-square&logo=google-chrome"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/moh-achun-armando"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Moh%20Achun%20A-blue?style=flat-square&logo=linkedin"></a>
+  <a target="_blank" href="mailto:achunarmando@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-achunarmando@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 <p align="center"> 
-  <a href="https://dev.to/atjhoendz/"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-atjhoendz-blue?style=flat-square&logo=dev-dot-to"></a>
+  <a target="_blank" href="https://dev.to/atjhoendz/"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-atjhoendz-blue?style=flat-square&logo=dev.to"></a>
 </p>

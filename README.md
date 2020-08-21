@@ -21,7 +21,7 @@
 
 <br/>
 
-### Keep Learn, Explore. and Share
+### Keep Learn, Explore, and Share
 <br/>
 
 [![Atjhoendz's github stats](https://github-readme-stats.vercel.app/api?username=atjhoendz&count_private=true&show_icons=true)](https://github.com/atjhoendz)

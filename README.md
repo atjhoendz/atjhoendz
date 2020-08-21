@@ -20,9 +20,7 @@
 - DevOps <b>{ Docker, TravisCI, Apache, Nginx }</b>
 - Daily Starter Pack <b>{ Manjaro Linux, VSCode, Git }</b>
 
-<br/>
-
-### Keep Learn, Explore, and Share
+### Keep Learn and Explore
 <br/>
 
 [![Atjhoendz's github stats](https://github-readme-stats.vercel.app/api?username=atjhoendz&count_private=true&show_icons=true)](https://github.com/atjhoendz)

@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Atjhoendz.
+### Hi there 👋, Atjhoendz here.
 <!--
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -11,7 +11,7 @@
 
 ### 🛠 Tech Stack
 
-- Programming Language <b>{ Javascript, PHP, Golang, C++ }</b>
+- Programming Language <b>{ Javascript, PHP, Golang }</b>
 - Backend <b>{ NodeJS, ExpressJS, Laravel, Lumen }</b>
 - Database <b>{ MySQL, MongoDB }</b>
 - Frontend <b>{ VueJS, NuxtJS, GatsbyJS }</b>
@@ -19,6 +19,9 @@
 - DevOps <b>{ Docker, TravisCI, Apache, Nginx }</b>
 - Daily Starter Pack <b>{ Manjaro Linux, VSCode, Git }</b>
 
+<br/>
+
+### Keep Learn, Explore. and Share
 <br/>
 
 [![Atjhoendz's github stats](https://github-readme-stats.vercel.app/api?username=atjhoendz&count_private=true&show_icons=true)](https://github.com/atjhoendz)

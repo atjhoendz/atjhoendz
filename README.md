@@ -7,11 +7,12 @@
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- Programming Language <b>{ Javascript, PHP, Golang }</b>
 -->
 
 ### 🛠 Tech Stack
 
-- Programming Language <b>{ Javascript, PHP, Golang }</b>
+- Programming Language <b>{ Javascript, PHP }</b>
 - Backend <b>{ NodeJS, ExpressJS, Laravel, Lumen }</b>
 - Database <b>{ MySQL, MongoDB }</b>
 - Frontend <b>{ VueJS, NuxtJS, GatsbyJS }</b>

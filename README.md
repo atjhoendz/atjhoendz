@@ -18,7 +18,7 @@
 - Frontend <b>{ VueJS, NuxtJS, GatsbyJS }</b>
 - Css Framework <b>{ Bootstrap, Materialize, Vuetify }</b>
 - DevOps <b>{ Docker, TravisCI, Apache, Nginx }</b>
-- Daily Starter Pack <b>{ Manjaro Linux, VSCode, Git }</b>
+- Daily Starter Pack <b>{ Ubuntu, VSCode, Git }</b>
 
 ### Keep Learn and Explore
 <br/>

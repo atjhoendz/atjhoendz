@@ -10,7 +10,7 @@
 - Programming Language <b>{ Javascript, PHP, Golang }</b>
 -->
 
-### 🛠 Tech Stack
+### 🛠 Experienced With
 
 - Programming Language <b>{ Javascript, PHP }</b>
 - Backend <b>{ NodeJS, ExpressJS, Laravel, Lumen }</b>

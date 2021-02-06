@@ -24,7 +24,6 @@
 <br/>
 
 [![Atjhoendz's github stats](https://github-readme-stats.vercel.app/api?username=atjhoendz&count_private=true&show_icons=true)](https://github.com/atjhoendz)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atjhoendz&layout=compact&hide=shards,shaderlab,hlsl&langs_count=10" />
 
 ### Connect with Me
 

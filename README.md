@@ -12,8 +12,8 @@
 
 ### 🛠 Experienced With
 
-- Programming Language <b>{ Javascript, PHP }</b>
-- Backend <b>{ NodeJS, ExpressJS, Laravel, Lumen }</b>
+- Programming Language <b>{ Javascript, Typescript, PHP }</b>
+- Backend <b>{ NodeJS, ExpressJS, NestJS, Laravel, Lumen }</b>
 - Database <b>{ MySQL, MongoDB }</b>
 - Frontend <b>{ VueJS, NuxtJS, GatsbyJS }</b>
 - Css Framework <b>{ Bootstrap, Materialize, Vuetify }</b>

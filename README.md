@@ -1,29 +1,23 @@
-### Hi there 👋, Atjhoendz here.
-<!--
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-- Programming Language <b>{ Javascript, PHP, Golang }</b>
--->
+### Hi there 👋, Achun here.
 
 ### 🛠 Experienced With
 
-- Programming Language <b>{ Javascript, Typescript, PHP }</b>
+- Programming Language <b>{ Golang, Javascript, Typescript, PHP }</b>
 - Backend <b>{ NodeJS, ExpressJS, NestJS, Laravel, Lumen }</b>
 - Database <b>{ MySQL, MongoDB }</b>
-- Frontend <b>{ VueJS, NuxtJS, GatsbyJS }</b>
+- Frontend <b>{ VueJS, NuxtJS }</b>
 - Css Framework <b>{ Bootstrap, Materialize, Vuetify }</b>
 - DevOps <b>{ Docker, TravisCI, Apache, Nginx }</b>
-- Daily Starter Pack <b>{ Ubuntu, VSCode, Git }</b>
 
 ### Keep Learn and Explore
 <br/>
 
-[![Atjhoendz's github stats](https://github-readme-stats.vercel.app/api?username=atjhoendz&count_private=true&show_icons=true)](https://github.com/atjhoendz)
+<p align="center">
+  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atjhoendz&show_icons=true&locale=en&layout=compact&theme=react&hide=html,php,tsql,visual_basic&langs_count=8" alt="atjhoendz" /> 
+  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=atjhoendz&show_icons=true&locale=en&theme=react&count_private=true" alt="atjhoendz" />
+</p>
+
+
 
 ### Connect with Me
 
@@ -35,3 +29,5 @@
 <p align="center"> 
   <a target="_blank" href="https://dev.to/atjhoendz/"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-atjhoendz-blue?style=flat-square&logo=dev.to"></a>
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=atjhoendz&label=Profile%20views&color=blue&style=flat-square" alt="atjhoendz" /> </p>

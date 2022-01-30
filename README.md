@@ -30,4 +30,4 @@
   <a target="_blank" href="https://dev.to/atjhoendz/"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-atjhoendz-blue?style=flat-square&logo=dev.to"></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=atjhoendz&label=Profile%20views&color=blue&style=flat-square" alt="atjhoendz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=atjhoendz&label=Profile%20views&color=blue&style=flat-square" alt="atjhoendz" style="display:none"/> </p>

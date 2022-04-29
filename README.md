@@ -9,7 +9,7 @@
 - Css Framework <b>{ Bootstrap, Materialize, Vuetify }</b>
 - DevOps <b>{ Docker, TravisCI, Apache, Nginx }</b>
 
-### Keep Learn and Explore
+### Keep Learning and Explore
 <br/>
 
 <p align="center">
